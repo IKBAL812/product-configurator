@@ -1,0 +1,3 @@
+# OCA's Odoo 16 / Python 3.10 image requires MarkupSafe 1.1.1.
+# Mako 1.4 requires MarkupSafe >=2 and makes that Odoo runtime unimportable.
+Mako<1.4
